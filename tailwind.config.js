@@ -21,6 +21,9 @@ export default {
           '950': '#52006c',
         },
       },
+      backgroundImage: {
+        'background-pattern': 'url(/images/pattern.png)',
+      }
     }
   },
   plugins: [],
